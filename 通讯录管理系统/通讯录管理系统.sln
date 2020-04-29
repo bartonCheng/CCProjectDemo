@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "通讯录管理系统", "通讯录管理系统.vcxproj", "{1AF9BB6A-B3CB-4349-8F38-35BDC2F13797}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP使用Sqlite数据库CRUD", "..\CPP使用Sqlite数据库CRUD\CPP使用Sqlite数据库CRUD.vcxproj", "{25A37120-389E-4056-8152-ACA300B0559B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{1AF9BB6A-B3CB-4349-8F38-35BDC2F13797}.Release|x64.Build.0 = Release|x64
 		{1AF9BB6A-B3CB-4349-8F38-35BDC2F13797}.Release|x86.ActiveCfg = Release|Win32
 		{1AF9BB6A-B3CB-4349-8F38-35BDC2F13797}.Release|x86.Build.0 = Release|Win32
+		{25A37120-389E-4056-8152-ACA300B0559B}.Debug|x64.ActiveCfg = Debug|x64
+		{25A37120-389E-4056-8152-ACA300B0559B}.Debug|x64.Build.0 = Debug|x64
+		{25A37120-389E-4056-8152-ACA300B0559B}.Debug|x86.ActiveCfg = Debug|Win32
+		{25A37120-389E-4056-8152-ACA300B0559B}.Debug|x86.Build.0 = Debug|Win32
+		{25A37120-389E-4056-8152-ACA300B0559B}.Release|x64.ActiveCfg = Release|x64
+		{25A37120-389E-4056-8152-ACA300B0559B}.Release|x64.Build.0 = Release|x64
+		{25A37120-389E-4056-8152-ACA300B0559B}.Release|x86.ActiveCfg = Release|Win32
+		{25A37120-389E-4056-8152-ACA300B0559B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
