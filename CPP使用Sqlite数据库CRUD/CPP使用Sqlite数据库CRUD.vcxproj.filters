@@ -18,7 +18,7 @@
     <ClCompile Include="CPP使用Sqlite3数据库.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Users\root\Downloads\sqlite-amalgamation-3310100\sqlite-amalgamation-3310100\sqlite3.c">
+    <ClCompile Include="sqlite3.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

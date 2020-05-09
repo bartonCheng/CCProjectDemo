@@ -138,8 +138,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\Users\root\Downloads\sqlite-amalgamation-3310100\sqlite-amalgamation-3310100\sqlite3.c" />
     <ClCompile Include="CPP使用Sqlite3数据库.cpp" />
+    <ClCompile Include="sqlite3.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
